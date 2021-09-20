@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hafiz Rafeeq
-- 👀 I’m interested in game development evem though I have only built WPF based desktop applications so far
+- 👀 I’m interested in game development even though I have only built WPF based desktop applications so far
 - 🌱 I’m currently learning react, node, ML, ethical hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - hafizrafeeqk@gmail.com
